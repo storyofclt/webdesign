@@ -1,0 +1,168 @@
+.top-container {
+  background-color: #EAF6F6;
+  position: relative;
+  padding-top: 100px;
+}
+.louis{
+  color:#66BFBF;
+}
+.myself {
+  padding-top:60px;
+  max-height: 250px;
+  max-width: 300px;
+  width: 180px;
+  height: 180px;
+}
+
+.lead {
+  text-decoration: underline;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 200px;
+  bottom: 280px;
+}
+
+.st{
+  width:30%;
+  margin:auto;
+  line-height: 2;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+.chair{
+  margin-top: 50px;
+  font-size: 2rem;
+  font-family: 'Varela Round', sans-serif;
+  font-weight: normal;
+
+}
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Signika', sans-serif;
+  color:#40514E;
+}
+
+.skill-row{
+  width:50%;
+  margin: 100px auto 70px auto;
+  text-align:left;
+  line-height: 2;
+}
+.analysing{
+  width:25%;
+  float:left;
+  padding-right:30px;
+  padding-bottom:20px;
+}
+.leadership{
+  width:25%;
+  float:right;
+  padding-left:30px;
+}
+/******** clear:left; - no wrapping *******/
+
+.skills{
+  margin-top: 90px;
+}
+
+.profile{
+  margin-bottom:90px;
+}
+
+.middle-container{
+  margin-top:50px;
+}
+
+.bottom-container{
+  background-color: #66BFBF;
+  padding: 35px 25px 15px 25px;
+  line-height: 3;
+}
+
+.footer-link{
+  color:#11999E;
+  margin:25px 25px;
+}
+a:hover{
+  color:#EAF6F6;
+}
+.bottom-name{
+  color:#EAF6F6;
+  font-weight: 200;
+  margin:0;
+}
+
+.get-in-touch{
+  font-weight: 400;
+  margin-bottom:14px;
+}
+
+.each-other{
+  margin: 40px auto;
+}
+
+.leave{
+  margin-bottom:50px;
+}
+
+hr{
+    border-style: none;
+    border-bottom-style: dotted;
+    border-color: grey;
+    border-width: 5px;
+    width: 3%;
+}
+
+h1 {
+  margin: 55px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+  color: #66BFBF;
+}
+
+/*//////////////100% = 1em = 16px////////////////*/
+
+h2 {
+  font-family: 'Varela Round', sans-serif;
+  color: #66BFBF;
+}
+
+h3 {
+  color:#11999E;
+  font-family: 'Varela Round', sans-serif;
+}
+
+
+table{
+  text-align: center;
+}
+
+.btn{
+	background:linear-gradient(to bottom, #11cdd4 5%, #11999e 100%);
+	background-color:#11cdd4;
+	border-radius:8px;
+	border:1px solid #18ab29;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:'Varela Round', sans-serif;
+	font-size:15px;
+	padding:9px 8px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #2bc4ab;
+}
+.btn:hover {
+	background:linear-gradient(to bottom, #11999e 5%, #11cdd4 100%);
+	background-color:#11999e;
+}
+.btn:active {
+	position:relative;
+	top:1px;
+}
